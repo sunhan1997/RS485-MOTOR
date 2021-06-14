@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sunhan/catkin_ws/src/read_CAN/build/devel/setup.sh
